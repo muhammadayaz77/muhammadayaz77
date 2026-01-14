@@ -1,14 +1,15 @@
 [![MasterHead](https://user-images.githubusercontent.com/61261654/114380542-d3314f80-9ba7-11eb-847c-31ba132fb4b8.png)](https://rishavchanda.io)
 <h1 align="center">👋 Hi, I'm Muhammad Ayaz</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadayaz77&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadayaz77" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **ICMS**
-- 🌱 I’m currently learning **TypeScript**
+- 🔭 I'm currently working on **ICMS**
+- 🌱 I'm currently learning **TypeScript**
 - 👯 I'm open to collaboration on **MERN Stack projects**
 - 💬 Ask me about **MERN Stack, React, Node.js, MongoDB**
 - 📫 How to reach me: **muhammadayaz22757@gmail.com**
@@ -48,23 +49,23 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammadayaz77&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="muhammadayaz77" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadayaz77&theme=dark&hide_border=true" alt="muhammadayaz77" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammadayaz77&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="muhammadayaz77" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadayaz77&theme=dark&hide_border=true" alt="muhammadayaz77" />
+</div>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadayaz77&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadayaz77&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=muhammadayaz77&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-</p>
+</div>
 
 ## 🌟 GitHub Activity Graph
 
 [![Ayaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadayaz77&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadayaz77&theme=github_dark" alt="Profile Details" />
-</p>
+</div>

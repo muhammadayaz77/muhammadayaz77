@@ -1,6 +1,7 @@
-<div>
- <img src="./assets/svg.svg" width="100%" />
+<div style="width: 100%;">
+  <img src="./assets/svg.svg" style="display:block; width:100%; height:auto; margin:0; padding:0;" />
 </div>
+
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Muhammad Ayaz</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>

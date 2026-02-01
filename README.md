@@ -1,309 +1,93 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg fill="none" viewBox="0 0 1500 650" xmlns="http://www.w3.org/2000/svg">
-<foreignObject width="100%" height="100%">
-<div xmlns="http://www.w3.org/1999/xhtml">
-<style>.byReeven {
-                font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-               display:flex; flex-direction: column;
-                align-items: center;
-                justify-content: center;
-                margin: 0;
+<div align="center"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height = 250px width = 60%  /></div>
 
-                text-align: center;
-                height: 100px;
+<h2> Hey there! I'm Mohamed Magdi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
-                background-size: 600% 400%;
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
-                }
+<img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
 
-		.byReevenContainer{
-                display: flex;
-				 flex-direction: column;
-                align-items: center;
-                justify-content: center;
-			border-radius: 10px;
-				width: 100%;
-				 background: #333;
-				padding-top:100px;
-				padding-bottom:100px;
-		}
+I'm a Mechatronics and Embedded Systems student who is passionate about Embedded Systems, CNC Machines, and Automotive Industry.
 
+- 🎓 &nbsp; I’m currently a senior student at Tanta University's Mechatronics Department.
+- 🌱 &nbsp; Learning more about Microcontrollers, Embedded Software, Embedded Linux, CNC Machines&Programming, and AUTOSAR.
+  <!-- Connect with me -->
+  <!--h2 without bottom border-->
+  <div id="user-content-toc">
+    <ul align="left">
+      <summary><h2 style="display: inline-block">How to reach me🤝</h2></summary>
+    </ul>
+  <!--icons and links-->
+  <p align="left">
+  <a href="https://www.linkedin.com/in/mohamed-magdi-4b209b218/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="mohamed.m.alsehli@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  /></a>
+  <a href="discordapp.com/users/muhammed_mgdi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  </p>
+  </div>
 
-                h1 {
-                text-align: center;
-                color: #fff;
-                font-size: 5em;
-                letter-spacing: 8px;
-                font-family: "Lucida Console", Monaco, monospace;
-                font-weight: 400;
-                /*Create overlap*/
+---
 
-                margin: 0;
-                line-height: 0;
-                /*Animation*/
+<h3>  &nbsp;🛠️ Languages and Tools:</h3>
 
-                animation: glitch1 2.5s infinite;
-                }
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 
-                h1:nth-child(2) {
-                color: #67f3da;
-                animation: glitch2 2.5s infinite;
-                }
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-                h1:nth-child(3) {
-                color: #f16f6f;
-                animation: glitch3 2.5s infinite;
-                }
-                /*Keyframes*/
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-                @keyframes glitch1 {
-                0% {
-                    transform: none;
-                    opacity: 1;
-                }
-                7% {
-                    transform: skew(-0.5deg, -0.9deg);
-                    opacity: 0.75;
-                }
-                10% {
-                    transform: none;
-                    opacity: 1;
-                }
-                27% {
-                    transform: none;
-                    opacity: 1;
-                }
-                30% {
-                    transform: skew(0.8deg, -0.1deg);
-                    opacity: 0.75;
-                }
-                35% {
-                    transform: none;
-                    opacity: 1;
-                }
-                52% {
-                    transform: none;
-                    opacity: 1;
-                }
-                55% {
-                    transform: skew(-1deg, 0.2deg);
-                    opacity: 0.75;
-                }
-                50% {
-                    transform: none;
-                    opacity: 1;
-                }
-                72% {
-                    transform: none;
-                    opacity: 1;
-                }
-                75% {
-                    transform: skew(0.4deg, 1deg);
-                    opacity: 0.75;
-                }
-                80% {
-                    transform: none;
-                    opacity: 1;
-                }
-                100% {
-                    transform: none;
-                    opacity: 1;
-                }
-                }
+<br/>
 
-                @keyframes glitch2 {
-                0% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                7% {
-                    transform: translate(-2px, -3px);
-                    opacity: 0.5;
-                }
-                10% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                27% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                30% {
-                    transform: translate(-5px, -2px);
-                    opacity: 0.5;
-                }
-                35% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                52% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                55% {
-                    transform: translate(-5px, -1px);
-                    opacity: 0.5;
-                }
-                50% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                72% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                75% {
-                    transform: translate(-2px, -6px);
-                    opacity: 0.5;
-                }
-                80% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                100% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                }
-
-                @keyframes glitch3 {
-                0% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                7% {
-                    transform: translate(2px, 3px);
-                    opacity: 0.5;
-                }
-                10% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                27% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                30% {
-                    transform: translate(5px, 2px);
-                    opacity: 0.5;
-                }
-                35% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                52% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                55% {
-                    transform: translate(5px, 1px);
-                    opacity: 0.5;
-                }
-                50% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                72% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                75% {
-                    transform: translate(2px, 6px);
-                    opacity: 0.5;
-                }
-                80% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                100% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                }</style>
-<div class="byReevenContainer">
-
-<div class="byReeven">
-<h1>Hey, I'm</h1>
-<h1>Hey, I'm</h1>
-<h1>Hey, I'm</h1>
+<div id="user-content-toc">
+  <ul>
+    <summary><h2 style="display: inline-block"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Problem Solving</h2></summary>
+  </ul>
 </div>
-<div class="byReeven">
-<h1>Muhammad Ayaz!</h1>
-<h1>Muhammad Ayaz!</h1>
-<h1>Muhammad Ayaz!</h1>
-</div>
-</div>
-</div>
-</foreignObject>
-</svg>
-
-<h1 align="center">👋 Hi, I'm Muhammad Ayaz</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadayaz77&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadayaz77" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I'm currently working on **ICMS**
-- 🌱 I'm currently learning **TypeScript**
-- 👯 I'm open to collaboration on **MERN Stack projects**
-- 💬 Ask me about **MERN Stack, React, Node.js, MongoDB**
-- 📫 How to reach me: **muhammadayaz22757@gmail.com**
-- ⚡ Fun fact: **MERN stack dev: Mongo, Express, React, Node... and a little bit of crying**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/-muhammadayaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-muhammadayaz" height="30" width="40" /></a>
-<a href="https://fb.com/muhammadayaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammadayaz" height="30" width="40" /></a>
-<a href="https://instagram.com/muhammad_ayaz_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad_ayaz_7" height="30" width="40" /></a>
+<!--icons and links-->
+<p>
+<a href="https://leetcode.com/Mohamed_Magdi/" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/ccea8959-b23e-4619-893d-18f85870b45e" alt="leetcode" height="50" width="50" /></a>
+<a href="https://www.hackerrank.com/profile/mohamed_m_alseh1" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/b0b5cfe3-3565-41d1-a1f5-6a3f88f4c42f" alt="hackerrank" height="50" width="50" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-</p>
+---
 
-## 📊 GitHub Stats
+### ✨ Visitors
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mo-Alsehli" alt="Mo-Alsehli" /> </p>
+
+---
+
+### 📊 Profile stats
+
+[![Mohamed Magdi 's github stats](https://github-readme-stats.vercel.app/api?username=Mo-Alsehli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mo-Alshli/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Alsehli&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="mohamed_magdi" /></p>
+
+---
+
+### 📊 Profile contribution
+
+> 3D Contrib
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammadayaz77&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="muhammadayaz77" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadayaz77&theme=dark&hide_border=true" alt="muhammadayaz77" />
+  <img  src = "https://github.com/Mo-Alsehli/Mo-Alsehli/blob/master/profile-3d-contrib/profile-season-animate.svg"
+       alt="3d-contrib" height = 85% width = 70% /></a>
 </div>
+
+> Contribution Graph
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadayaz77&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadayaz77&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-</div>
+---
 
-## 🌟 GitHub Activity Graph
-
-[![Ayaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadayaz77&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadayaz77&theme=github_dark" alt="Profile Details" />
-</div>
+Credit: [username](https://github.com/Mo-Alsehli)
+Last Edited on: 6/4/2024

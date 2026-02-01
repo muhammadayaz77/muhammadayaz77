@@ -79,27 +79,6 @@ I'm a **Full Stack MERN Developer** focused on building scalable, real-world web
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" 
-    src="https://github-readme-stats.vercel.app/api?username=muhammadayaz77&show_icons=true&theme=dark&hide_border=true" />
-  <img width="49%" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadayaz77&theme=dark&hide_border=true" />
-</div>
-
-
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadayaz77&theme=darkhub&no-frame=true&column=7" />
-</div>
-
----
-
 ## 📈 GitHub Activity Graph
 
 <div align="center">

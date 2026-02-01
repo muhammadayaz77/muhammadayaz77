@@ -10,10 +10,11 @@
 
 ---
 
-<h2>
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="45" style="vertical-align: middle;" />
+<h2 style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="45" />
   <b>About Me</b>
 </h2>
+
 
 
 <img align="right" width="250px" height="200px" alt="coding" 

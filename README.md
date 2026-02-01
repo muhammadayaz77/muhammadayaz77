@@ -103,7 +103,3 @@ I'm a **Full Stack MERN Developer** focused on building scalable, real-world web
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadayaz77&theme=react-dark&hide_border=true&area=true" />
 </div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadayaz77&theme=github_dark" />
-</div>

@@ -11,8 +11,8 @@
 ---
 
 ## <picture>
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
-</picture> About Me
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">  About Me
+</picture>
 
 <img align="right" width="250px" height="200px" alt="coding" 
 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />

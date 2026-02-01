@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="./assets/svg.svg" width="50" />
-
+ <img src="./assets/svg.svg" width="100%" />
 </div>
 
 <h2 align="center"> Hey there! I'm Muhammad Ayaz 

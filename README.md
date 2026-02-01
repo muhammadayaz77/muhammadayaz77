@@ -86,10 +86,7 @@ I'm a **Full Stack MERN Developer** focused on building scalable, real-world web
     src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadayaz77&theme=dark&hide_border=true" />
 </div>
 
-<div align="center">
-  <img width="50%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadayaz77&layout=compact&theme=dark&hide_border=true" />
-</div>
+
 
 ---
 

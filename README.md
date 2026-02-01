@@ -8,13 +8,11 @@
 
 <h3 align="center">Full Stack MERN Developer | Pakistan</h3>
 
----
-<div align="center>
-  
-## <picture>
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">  
-</picture> ## About Me
-</div>
+<h2>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="45" style="vertical-align: middle;" />
+  <b>About Me</b>
+</h2>
+
 
 <img align="right" width="250px" height="200px" alt="coding" 
 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />

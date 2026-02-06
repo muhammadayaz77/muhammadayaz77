@@ -38,7 +38,7 @@ I'm a **Full Stack MERN Developer** focused on building scalable, real-world web
   </a>
 
   <!-- Facebook -->
-  <a href="https://fb.com/muhammadayaz" target="_blank">
+  <a href="https://fb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
          height="45" width="45" alt="Facebook"/>
   </a>

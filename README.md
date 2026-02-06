@@ -31,8 +31,8 @@ I'm a **Full Stack MERN Developer** focused on building scalable, real-world web
 
 <p align="left">
   <!-- Email / Gmail -->
-  <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-icon.svg" 
+  <a href="mailto:muhammadayaz22757@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" 
          height="45" width="45" alt="Email"/>
   </a>
 
@@ -54,6 +54,7 @@ I'm a **Full Stack MERN Developer** focused on building scalable, real-world web
          height="45" width="45" alt="Instagram"/>
   </a>
 </p>
+
 
 
 ---

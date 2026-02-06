@@ -30,16 +30,31 @@ I'm a **Full Stack MERN Developer** focused on building scalable, real-world web
 ## 🤝 How to reach me
 
 <p align="left">
+  <!-- Email / Gmail -->
+  <a href="mailto:your.email@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-icon.svg" 
+         height="45" width="45" alt="Email"/>
+  </a>
+
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/-muhammadayaz" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45" width="45" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         height="45" width="45" alt="LinkedIn"/>
   </a>
+
+  <!-- Facebook -->
   <a href="https://fb.com/muhammadayaz" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="45" width="45" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+         height="45" width="45" alt="Facebook"/>
   </a>
+
+  <!-- Instagram -->
   <a href="https://instagram.com/muhammad_ayaz_7" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="45" width="45" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+         height="45" width="45" alt="Instagram"/>
   </a>
 </p>
+
 
 ---
 

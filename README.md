@@ -30,12 +30,7 @@ I'm a **Full Stack MERN Developer** focused on building scalable, real-world web
 ## 🤝 How to reach me
 
 <p align="left">
-  <!-- Email / Gmail -->
-  <a href="mailto:muhammadayaz22757@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" 
-         height="45" width="45" alt="Email"/>
-  </a>
-
+  
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/-muhammadayaz" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
